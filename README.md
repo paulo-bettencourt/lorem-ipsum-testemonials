@@ -17,4 +17,4 @@ The HTML structure consists of a **grid container** with several **grid items**.
 
 ![Screenshot 2024-11-26 at 18 18 21](https://github.com/user-attachments/assets/6c8f919d-d3f3-43eb-b70a-0db2066c2365)
 
-![Screenshot 2024-11-26 at 18 18 45](https://github.com/user-attachments/assets/0680df2d-7cbb-4be3-aab0-8e2a5a525907)
+![Screenshot 2024-11-26 at 18 19 11](https://github.com/user-attachments/assets/995bde2a-bb25-4569-997f-14bf89b84660)
